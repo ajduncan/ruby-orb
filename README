@@ -1,0 +1,4 @@
+Basic scanner for common PHP vulnerabilities that use eval, as found in iskorpitx 
+and other hacks.
+
+
